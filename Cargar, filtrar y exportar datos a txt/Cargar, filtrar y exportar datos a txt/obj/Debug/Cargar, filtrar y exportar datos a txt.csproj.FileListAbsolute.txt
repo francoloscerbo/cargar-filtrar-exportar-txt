@@ -1,0 +1,26 @@
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.exe.config
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.exe
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.pdb
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.AssemblyReference.cache
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.CargarDatos.resources
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.Inicio.resources
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.Properties.Resources.resources
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.GenerateResource.cache
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.exe
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.pdb
+C:\Users\Franco\Downloads\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.filtrado.resources
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.exe.config
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.exe
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\bin\Debug\Cargar, filtrar y exportar datos a txt.pdb
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.CargarDatos.resources
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.filtrado.resources
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.Inicio.resources
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar__filtrar_y_exportar_datos_a_txt.Properties.Resources.resources
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.exe
+C:\Users\Franco\Desktop\proy git\Cargar, filtrar y exportar datos a txt\Cargar, filtrar y exportar datos a txt\obj\Debug\Cargar, filtrar y exportar datos a txt.pdb
